@@ -1,4 +1,4 @@
-# ThinkPad T14 Gen 5 AMD - Ubuntu 24.04 / Mint 22 - Remove Thermald error
+# ThinkPad T14 Gen 5 AMD - Mint 22 - Remove Thermald error
 
 Thermald is for Intel processors.
 
