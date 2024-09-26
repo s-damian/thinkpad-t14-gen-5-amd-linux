@@ -8,5 +8,5 @@ To make your **ThinkPad T14 Gen 5 AMD** compatible with **Ubuntu 24.04 / Mint 22
 
 | Title | OS | Link |
 |:---:|:---:|:---:|
-| Fix battery drain issue in sleep mode | Ubuntu 24.04 / Mint 22 | [Link](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux/blob/main/ubuntu-24-04/fix-battery-drain-issue-in-sleep-mode.md) |
-| Remove Thermald error | Mint 22 | [Link](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux/blob/main/mint-22/remove-thermald.md) |
+| Fix battery drain issue in sleep mode | Ubuntu 24.04 / Mint 22 | [Link](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux/blob/main/ubuntu-24-04/fix-battery-drain-issue-in-sleep-mode.md) |
+| Remove Thermald error | Mint 22 | [Link](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux/blob/main/mint-22/remove-thermald.md) |
