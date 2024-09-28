@@ -1,4 +1,7 @@
-# ThinkPad T14 Gen 5 AMD - Mint 22 - Remove Thermald error
+# Linux Mint 22 - Remove Thermald error
+
+You can also read the article on my blog:
+[Blog - Fix battery drain issue in sleep mode](https://www.damian-freelance.com/blog/amd-cpu-remove-thermald-error-on-linux-mint-22)
 
 Thermald is for Intel processors.
 
@@ -16,7 +19,7 @@ sudo systemctl stop thermald
 sudo systemctl mask thermald
 ```
 
-Remove Thermald:
+If you want, you can completely uninstall termald:
 
 ```bash
 sudo apt remove --purge thermald
