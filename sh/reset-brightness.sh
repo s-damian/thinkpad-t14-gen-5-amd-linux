@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# For path: /usr/local/bin/reset-brightness.sh
+
 # Function to reset screen brightness
 resetBrightness() {
     logger "resetBrightness script : ---------- [START] ----------"
@@ -39,5 +41,5 @@ resetBrightness() {
     logger "resetBrightness script : ---------- [END] ----------"
 }
 
-# Exécuter la fonction resetBrightness
+# Run the resetBrightness function
 resetBrightness
