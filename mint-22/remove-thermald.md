@@ -1,6 +1,6 @@
 # Linux Mint 22 - Remove Thermald error
 
-You can also read the article on my blog:
+> You can also read the article on my blog:
 [Blog - Remove Thermald error on Mint 22 / AMD CPU](https://www.damian-freelance.com/blog/amd-cpu-remove-thermald-error-on-linux-mint-22)
 
 Thermald is for Intel processors.

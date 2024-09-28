@@ -4,7 +4,7 @@
 
 ## Fix battery drain issue in sleep mode
 
-You can also read the article on my blog:
+> You can also read the article on my blog:
 [Blog - Fix battery drain issue in sleep mode](https://www.damian-freelance.com/blog/thinkpad-t14-gen-5-amd-fix-battery-drain-issue-in-sleep-mode-on-linux)
 
 
