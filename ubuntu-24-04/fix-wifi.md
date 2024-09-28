@@ -33,7 +33,7 @@ Restart NetworkManager:
 sudo systemctl restart NetworkManager
 ```
 
-## Fixing WiFi issues after sleep
+## Fixing WiFi issues after suspend
 
 *There is an issue where after a few suspend/wake cycles the WiFi card starts to slow down.*
 
@@ -44,7 +44,9 @@ sudo nano /lib/systemd/system-sleep/reset-wifi-module.sh
 ```
 
 In this file, Add the content of this scipt:
-[Reset-WiFi-Module-Script](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux/blob/main/sh/reset-wifi-module.sh)
+[Reset WiFi Module Script](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux/blob/main/sh/reset-wifi-module.sh)
+
+Save and exit.
 
 Make the script executable:
 
