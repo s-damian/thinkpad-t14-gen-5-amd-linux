@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# For path: /lib/systemd/system-sleep/wifi-module-reset.sh
+# For path: /lib/systemd/system-sleep/reset-wifi-module.sh
 
 # This script unloads and reloads the Qualcomm WiFi module around suspend
 
