@@ -35,7 +35,7 @@ sudo systemctl restart NetworkManager
 
 ## Fixing WiFi issues after sleep
 
-*There is an issue where after a few suspend/wake cycles the WiFi card starts to slow down*
+*There is an issue where after a few suspend/wake cycles the WiFi card starts to slow down.*
 
 Create and edit this file:
 
