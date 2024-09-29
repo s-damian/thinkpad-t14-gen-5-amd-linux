@@ -7,7 +7,7 @@
 
 ## To fix auto-dimming brightness after suspend on Linux
 
-### step 1/2 - Create script
+### Step 1/2 - Create script
 
 Create and edit this file:
 
@@ -26,7 +26,7 @@ Make the script executable:
 sudo chmod +x /usr/local/bin/reset-brightness.sh
 ```
 
-### step 2/2 - Create systemd service
+### Step 2/2 - Create systemd service
 
 Create and edit this file:
 
