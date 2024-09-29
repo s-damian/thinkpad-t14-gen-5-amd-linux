@@ -5,7 +5,7 @@
 
 ## Make ThinkPad T14 AMD compatible with Ubuntu 24.04 / Mint 22
 
-🐧 Tested with Linux Kernel: **6.8**
+🐧 Tested with Linux Kernel: 6.8
 
 To make your **ThinkPad T14 Gen 5 AMD** compatible with **Ubuntu 24.04 / Mint 22**, you can follow these steps:
 
