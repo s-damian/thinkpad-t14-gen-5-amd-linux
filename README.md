@@ -1,4 +1,4 @@
-# ThinkPad T14 Gen 5 AMD compatible with Linux
+# Make ThinkPad T14 Gen 5 AMD compatible with Linux
 
 > 📝 You can also read the detailed article on my blog:
 [Make ThinkPad T14 Gen 5 AMD compatible with Linux](https://www.damian-freelance.com/blog/how-to-make-the-thinkpad-t14-gen-5-amd-compatible-with-linux)
