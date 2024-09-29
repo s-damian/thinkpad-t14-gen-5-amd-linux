@@ -1,6 +1,6 @@
 # ThinkPad T14 Gen 5 AMD - Fix WiFi after sleep - Ubuntu 24.04 / Mint 22
 
-> You can also read the article on my blog:
+> 📝 You can also read the article on my blog:
 [Fix WiFi with Qualcomm QCNFA765 Wireless](https://www.damian-freelance.com/blog/thinkpad-t14-amd-qualcomm-qcnfa765-fix-wifi-on-linux)
 
 Tested with Linux Kernel : 6.8
