@@ -3,7 +3,7 @@
 > 📝 You can also read the article on my blog:
 [Fix WiFi with Qualcomm QCNFA765 Wireless](https://www.damian-freelance.com/blog/thinkpad-t14-amd-qualcomm-qcnfa765-fix-wifi-on-linux)
 
-Tested with Linux Kernel : 6.8
+🐧 Tested with Linux Kernel: 6.8
 
 ## To improve WiFi Performance on Linux
 
