@@ -1,11 +1,11 @@
 # ThinkPad T14 Gen 5 AMD - Mint 22 - Fix auto brightness reduction after sleep
 
-> 📝 You can also read the article on my blog:
+> 📝 You can also read the detailed article on my blog:
 [Fix auto brightness reduction after sleep](https://www.damian-freelance.com/blog/thinkpad-t14-amd-fix-automatic-brightness-reduction-after-sleep-on-linux)
 
 🐧 Tested with Linux Kernel: 6.8
 
-## To fix auto-dimming brightness after suspend
+## To fix auto-dimming brightness after suspend on Linux
 
 ### step 1/2 - Create script
 

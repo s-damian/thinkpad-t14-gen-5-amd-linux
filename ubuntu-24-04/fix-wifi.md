@@ -1,11 +1,11 @@
 # ThinkPad T14 Gen 5 AMD - Fix WiFi after sleep - Ubuntu 24.04 / Mint 22
 
-> 📝 You can also read the article on my blog:
+> 📝 You can also read the detailed article on my blog:
 [Fix WiFi with Qualcomm QCNFA765 Wireless](https://www.damian-freelance.com/blog/thinkpad-t14-amd-qualcomm-qcnfa765-fix-wifi-on-linux)
 
 🐧 Tested with Linux Kernel: 6.8
 
-## To improve WiFi Performance on Linux
+## To improve WiFi performance on Linux
 
 Open this file for editing:
 
@@ -33,7 +33,7 @@ Restart NetworkManager:
 sudo systemctl restart NetworkManager
 ```
 
-## Fixing WiFi issues after suspend
+## To fix slow Wi-Fi after suspend / resume on Linux
 
 *There is an issue where after a few suspend/wake cycles the WiFi card starts to slow down.*
 
