@@ -3,7 +3,7 @@
 > 📝 You can also read the detailed article on my blog:
 [Make ThinkPad T14 Gen 5 AMD compatible with Linux](https://www.damian-freelance.com/blog/how-to-make-the-thinkpad-t14-gen-5-amd-compatible-with-linux)
 
-> :octocat: If you find this tutorial useful, please give me a **Start** on this GitHub repository.
+> :octocat: If you find this tutorial useful, please give me a **Star** on this GitHub repository.
 
 ## Make ThinkPad T14 AMD compatible with Ubuntu 24.04 / Mint 22
 
