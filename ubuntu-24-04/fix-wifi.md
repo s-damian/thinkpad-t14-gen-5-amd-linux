@@ -3,6 +3,9 @@
 > 📝 You can also read the detailed article on my blog:
 [Fix WiFi with Qualcomm QCNFA765 Wireless](https://www.damian-freelance.com/blog/thinkpad-t14-amd-qualcomm-qcnfa765-fix-wifi-on-linux)
 
+> :octocat: If you find this tutorial useful, please give me a **Start** on this GitHub repository:
+[@s-damian [thinkpad-t14-amd-linux]](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
+
 🐧 Tested with Linux Kernel: 6.8
 
 🛜 WiFi product name: **Qualcomm Wi-Fi 6E NFA725A**

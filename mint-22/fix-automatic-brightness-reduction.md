@@ -3,6 +3,9 @@
 > 📝 You can also read the detailed article on my blog:
 [Fix auto brightness reduction after sleep](https://www.damian-freelance.com/blog/thinkpad-t14-amd-fix-automatic-brightness-reduction-after-sleep-on-linux)
 
+> :octocat: If you find this tutorial useful, please give me a **Start** on this GitHub repository:
+[@s-damian [thinkpad-t14-amd-linux]](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
+
 🐧 Tested with Linux Kernel: 6.8
 
 ## To fix auto-dimming brightness after suspend on Linux

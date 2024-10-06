@@ -3,6 +3,9 @@
 > 📝 You can also read the detailed article on my blog:
 [Remove Thermald error on Mint 22 / AMD CPU](https://www.damian-freelance.com/blog/amd-cpu-fix-thermald-error-on-linux-mint)
 
+> :octocat: If you find this tutorial useful, please give me a **Start** on this GitHub repository:
+[@s-damian [thinkpad-t14-amd-linux]](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
+
 ## To fix the Thermald service error on AMD CPUs on Linux
 
 Thermald is for Intel processors.
