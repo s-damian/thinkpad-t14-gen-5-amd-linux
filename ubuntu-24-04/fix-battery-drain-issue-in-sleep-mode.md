@@ -3,6 +3,9 @@
 > 📝 You can also read the detailed article on my blog:
 [Fix battery drain issue in sleep mode](https://www.damian-freelance.com/blog/thinkpad-t14-gen-5-amd-fix-battery-drain-issue-in-sleep-mode-on-linux)
 
+> :octocat: If you find this tutorial useful, please give me a Start on GitHub:
+[@s-damian - thinkpad-t14-gen-5-amd-linux](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
+
 🐧 Tested with Linux Kernel: 6.8
 
 ## To fix battery drain issue during suspend mode on Linux
