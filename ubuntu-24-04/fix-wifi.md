@@ -58,7 +58,7 @@ Make the script executable:
 sudo chmod +x /lib/systemd/system-sleep/reset-wifi-module.sh
 ```
 
-## Other Tutorials
+## Other tutorials - ThinkPad T14 AMD / Linux support
 
 See other tutorials on the same subject:
 [Make the ThinkPad T14 Gen 5 AMD compatible with Linux](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
