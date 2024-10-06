@@ -3,7 +3,7 @@
 > 📝 You can also read the detailed article on my blog:
 [Fix battery drain issue in sleep mode](https://www.damian-freelance.com/blog/thinkpad-t14-gen-5-amd-fix-battery-drain-issue-in-sleep-mode-on-linux)
 
-> :octocat: If you find this tutorial useful, please give me a Start on GitHub:
+> :octocat: If you find this tutorial useful, please give me a **Start** on this GitHub repository:
 [@s-damian [thinkpad-t14-gen-5-amd-linux]](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
 
 🐧 Tested with Linux Kernel: 6.8
