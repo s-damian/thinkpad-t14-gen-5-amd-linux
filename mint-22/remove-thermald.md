@@ -32,3 +32,8 @@ Clean up any unused packages:
 ```bash
 sudo apt autoremove
 ```
+
+## Other articles
+
+See other articles on the same subject:
+[Make the ThinkPad T14 Gen 5 AMD compatible with Linux](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
