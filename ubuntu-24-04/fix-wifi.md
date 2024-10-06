@@ -5,6 +5,8 @@
 
 🐧 Tested with Linux Kernel: 6.8
 
+🛜 WiFi chipset name: **QCNFA765** Wireless Network Adapter (product name: **Qualcomm Wi-Fi 6E NFA725A**)
+
 ## To improve WiFi performance on Linux
 
 Open this file for editing:
