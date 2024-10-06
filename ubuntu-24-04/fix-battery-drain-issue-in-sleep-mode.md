@@ -5,6 +5,8 @@
 
 🐧 Tested with Linux Kernel: 6.8
 
+🛜 WiFi chipset name: QCNFA765 Wireless Network Adapter (product name: Qualcomm Wi-Fi 6E NFA725A)
+
 ## To fix battery drain issue during suspend mode on Linux
 
 Open your GRUB file for editing:
