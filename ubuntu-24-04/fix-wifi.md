@@ -14,7 +14,7 @@
 
 🛜 Internal radio chipset (Qualcomm): **WCN6855 hw2.1**
 
-Note: This fix confirmed working on hw2.1 revision. Check yours with: `dmesg | grep "wcn6855 hw"`
+Note: This fix confirmed working on hw2.1 revision. Check yours with: `dmesg | grep -Ei "wcn6855|hw[0-9]\.[0-9]"`
 
 ## To improve WiFi performance on Linux
 
