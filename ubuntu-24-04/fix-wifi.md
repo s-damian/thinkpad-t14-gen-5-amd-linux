@@ -8,9 +8,13 @@
 
 🐧 Tested with Linux Kernels: 6.8 - 6.14
 
-🛜 WiFi product name: **Qualcomm Wi-Fi 6E NFA725A**
+🛜 WiFi product name (Lenovo): **Qualcomm Wi-Fi 6E NFA725A**
 
-⚙️ WiFi chipset name: **QCNFA765 Wireless Network Adapter**
+🛜 WiFi chipset name (module): **QCNFA765 Wireless Network Adapter**
+
+🛜 Internal radio chipset (Qualcomm): **WCN6855 hw2.1**
+
+Note: This fix confirmed working on hw2.1 revision. Check yours with: `dmesg | grep "wcn6855 hw"`
 
 ## To improve WiFi performance on Linux
 
