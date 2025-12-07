@@ -65,4 +65,4 @@ sudo systemctl status reset-brightness.service
 ## Other tutorials - Linux support on ThinkPad T14 AMD
 
 See other tutorials on the same subject:
-[Make the ThinkPad T14 Gen 5 AMD compatible with Linux](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
+[Make the ThinkPad AMD compatible with Linux](https://www.damian-freelance.com/blog/how-to-make-the-thinkpad-t14-gen-5-amd-compatible-with-linux)
