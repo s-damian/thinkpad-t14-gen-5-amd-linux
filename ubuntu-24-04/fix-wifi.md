@@ -6,7 +6,7 @@
 > :octocat: If you find this tutorial useful, please give me a **Star** on this GitHub repository:
 [@s-damian [thinkpad-t14-amd-linux]](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux)
 
-🐧 Tested with Linux Kernels: 6.8 - 6.14
+🐧 Tested with Linux Kernels: 6.8 - 6.17
 
 🛜 WiFi product name (Lenovo): **Qualcomm Wi-Fi 6E NFA725A**
 
